@@ -1,0 +1,11 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}  
+.carousel .item {
+  background: #333;
+  text-align: center;  
+}
+.carousel .item > img {
+  margin: 0 auto;
+}
