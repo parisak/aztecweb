@@ -10,7 +10,7 @@ body {
   margin: 0 auto;
 }
 .hero-unit { padding: 20px; }
-.hero-unit img { border-radius: 10px; width: 100%; }
+.hero-unit img { border-radius: 10px; width: 100%; max-height: 300px}
 
 img { max-width: 100%; }
 
