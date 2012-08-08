@@ -9,8 +9,8 @@ body {
 .carousel .item > img {
   margin: 0 auto;
 }
-.hero-unit { padding: 10px; }
-.hero-unit img { border-radius: 10px; width: 100%; max-height: 200px}
+.hero-unit { padding: 10px; max-height: 100px; overflow: hidden }
+.hero-unit img { border-radius: 5px; width: 100%;}
 
 img { max-width: 100%; }
 
